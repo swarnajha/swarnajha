@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **java, c++ and competitive programming**
+- 💬 Ask me about **java, c++, figma and competitive programming**
 
 - 📫 How to reach me **swarnajha2018@gmail.com**
 
