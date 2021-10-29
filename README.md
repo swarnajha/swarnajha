@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swarna</h1>
 <h3 align="center">Tech Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **web dev**
 
 - 💬 Ask me about **java, c++, figma and competitive programming**
 
