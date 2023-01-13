@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swarna</h1>
 <h3 align="center">Tech Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **web dev**
+- 🌱 I’m currently learning **backend (node js+mongoDb)**
 
-- 💬 Ask me about **java, figma and competitive programming**
+- 💬 Ask me about **java, figma , web development and competitive programming**
 
 - 📫 How to reach me **swarnajha2018@gmail.com**
 
