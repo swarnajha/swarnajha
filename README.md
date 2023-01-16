@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **backend (node js+mongoDb)**
 
-- 💬 Ask me about **java, figma , web development and competitive programming**
+- 💬 Ask me about **java, UI/UX , web development and competitive programming**
 
 - 📫 How to reach me **swarnajha2018@gmail.com**
 
