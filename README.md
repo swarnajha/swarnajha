@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swarna</h1>
+<h1 align="center">Hi 👋, I am Swarna</h1>
 <h3 align="center">Tech Enthusiast from India</h3>
 
 - 🌱 I’m currently learning **backend (node js+mongoDb)**
