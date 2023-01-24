@@ -78,25 +78,25 @@ contact me- swarnajha2018@gmail.com
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/swarnajha" target="_blank">
+<a href="https://github.com/swarnajha" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/jha07_swarna?t=fBoLzxXiXgyBDDlzGhQEEg&s=09" target="_blank">
+<a href="https://twitter.com/jha07_swarna?t=fBoLzxXiXgyBDDlzGhQEEg&s=09" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/https://leetcode.com/sillycoder_071/" target="_blank">
+<a href="https://leetcode.com/sillycoder_071/" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swarna-jha-5201291b6/" target="_blank">
+<a href="https://www.linkedin.com/in/swarna-jha-5201291b6/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/swarna jha" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://instagram.com/s._.warna?igshid=Mzc0YWU1OWY=" target="_blank">
+<a href="https://instagram.com/s._.warna?igshid=Mzc0YWU1OWY=" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/https://www.codechef.com/users/sillycoder_071" target="_blank">
+<a href="https://www.codechef.com/users/sillycoder_071" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 </div>  
