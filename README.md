@@ -4,12 +4,12 @@
   
 
 ### <div align="center">I'm Swarna Jha, a full-time full-stack developer and Designer 👨‍💻 working remotely since 2020 🚀</div>  
-  
+ <br> 
 
 - 🔭 I’m currently working on Virtusa Jatayu season-3
 [https://github.com/TakeTalk/virtusa-frotend] 
 
--open my CV-[https://drive.google.com/file/d/1QnBKjEL3kUUXASmtXnkyk7vWbq24rU6f/view]  
+- open my CV-[https://drive.google.com/file/d/1QnBKjEL3kUUXASmtXnkyk7vWbq24rU6f/view]  
 
 contact me- swarnajha2018@gmail.com
 
@@ -143,4 +143,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
