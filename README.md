@@ -7,8 +7,11 @@
   
 
 - 🔭 I’m currently working on Virtusa Jatayu season-3
-[https://github.com/TakeTalk/virtusa-frotend]  
-  
+[https://github.com/TakeTalk/virtusa-frotend] 
+
+-open my CV-[https://drive.google.com/file/d/1QnBKjEL3kUUXASmtXnkyk7vWbq24rU6f/view]  
+
+contact me- swarnajha2018@gmail.com
 
 - 🌱 I’m currently learning Backend with node.js and mongodb  
   
