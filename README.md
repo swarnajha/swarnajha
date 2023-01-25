@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/T2G8NmbUhCBJLdGxGX/giphy.gif" align="center" style="width: 600px" />
+<img src="https://media.giphy.com/media/ufICC31Lkc1n2EqLXe/giphy.gif" align="center" style="width: 600px" />
 </div>  
   
 
@@ -8,10 +8,9 @@
 
 - 🔭 I’m currently working on Virtusa Jatayu season-3
 [https://github.com/TakeTalk/virtusa-frotend] 
+- <p>FOR MORE DETAILS <a href="https://drive.google.com/file/d/1QnBKjEL3kUUXASmtXnkyk7vWbq24rU6f/view">OPEN MY CV</a></p> 
 
-- open my CV-[https://drive.google.com/file/d/1QnBKjEL3kUUXASmtXnkyk7vWbq24rU6f/view]  
-
-contact me- swarnajha2018@gmail.com
+- contact me- swarnajha2018@gmail.com
 
 - 🌱 I’m currently learning Backend with node.js and mongodb  
   
@@ -85,7 +84,8 @@ contact me- swarnajha2018@gmail.com
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/sillycoder_071/" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=	"https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"  width="40" 
+     height="40" />
 </a>
 <a href="https://www.linkedin.com/in/swarna-jha-5201291b6/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -97,7 +97,7 @@ contact me- swarnajha2018@gmail.com
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.codechef.com/users/sillycoder_071" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+<img src="https://cdn.dribbble.com/users/70628/screenshots/1743345/media/584ad20c4711df6ab15612cc824d35d1.png?compress=1&resize=40x30&vertical=top"&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -109,8 +109,15 @@ contact me- swarnajha2018@gmail.com
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Swarnajha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnajha" alt="Swarna jha" /></a> </p>
 
+<div align="center">
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnajha&show_icons=true&locale=en&layout=compact" alt="swarnajha" /></p>
+</div>
+<div align="left">
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnajha&" alt="swarnajha" /></p>
+  </div>
 <!-- ## Recent Blog Posts   -->
 <!-- BLOG-POST-LIST:START -->  
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
