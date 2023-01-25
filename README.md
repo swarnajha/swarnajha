@@ -6,9 +6,7 @@
 ### <div align="center">I'm Swarna Jha, a full-time full-stack developer and Designer 👨‍💻 working remotely since 2020 🚀</div>  
  <br> 
 
-- 🔭<p>I’m currently working on Virtusa Jatayu season-3 <a href="https://github.com/TakeTalk/virtusa-frotend">OPEN</a></p> 
-
-
+- 🔭I’m currently working on Virtusa Jatayu season-3 <a href="https://github.com/TakeTalk/virtusa-frotend">OPEN</a>
 - <p>FOR MORE DETAILS <a href="https://drive.google.com/file/d/1QnBKjEL3kUUXASmtXnkyk7vWbq24rU6f/view">OPEN MY CV</a></p> 
 
 - contact me- swarnajha2018@gmail.com
