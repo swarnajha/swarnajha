@@ -129,9 +129,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=swarnajha&&style=flat-square" align="center" />
-</div>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnajha&label=Profile%20views&color=0e75b6&style=flat" alt="swarnajha" /> </p>
   
 
 <br/>  
