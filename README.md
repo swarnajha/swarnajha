@@ -11,7 +11,7 @@
 
 - contact me- swarnajha2018@gmail.com
 
-- 🌱 I’m currently learning Backend with node.js and mongodb  
+- 🌱 I’m currently learning Backend with node.js and mongoDb  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies & Designing  
