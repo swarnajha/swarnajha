@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://preview.redd.it/any-fans-of-the-video-game-tunic-in-here-i-made-some-3d-fan-v0-9lpk9wen27ga1.jpg?width=1080&crop=smart&auto=webp&s=31a234d79f1063773f64a859d3a7b18838e1b790" align="center" style="width: 600px" />
+<img src="https://github.com/swarnajha/project/blob/main/20230211_225212.png" align="center" style="width: 600px" />
 </div>  
   
 
