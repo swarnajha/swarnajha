@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Swarna Jha, a full-time Full-Stack Developer and Designer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Swarna Jha, a full-time Developer and Designer 👨‍💻 working remotely since 2020 🚀</div>  
  <br> 
 
 - 🔭I’m currently working on Virtusa Jatayu season-3 <a href="https://github.com/TakeTalk/virtusa-frotend">OPEN</a>
